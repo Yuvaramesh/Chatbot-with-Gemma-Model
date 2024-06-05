@@ -1,2 +1,2 @@
-# *Chatbot-with-Gemma-Model*
+# Chatbot-with-Gemma-Model
 
