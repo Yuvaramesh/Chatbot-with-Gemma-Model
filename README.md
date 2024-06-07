@@ -64,7 +64,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Project Structure
 chatbot-with-gemma-model
-.
+```
 ├── app.py                # Main application file
 ├── requirements.txt      # List of required Python packages
 ├── README.md             # This file
