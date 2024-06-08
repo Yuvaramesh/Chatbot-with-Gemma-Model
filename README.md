@@ -59,7 +59,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Open the application in your browser.
 2. Enter your question in the input field.
 3. Press the "Submit" button.
-4. View the answer provided by the system.
+4. Answers will be provided by the system.
 
 ## Project Structure
 chatbot-with-gemma-model
