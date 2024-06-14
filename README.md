@@ -45,7 +45,6 @@ Follow these instructions to get a copy of the project up and running on your lo
       ```sh
       export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/credentials.json"
       ```
-
 5. **Run the application:**
     ```sh
     python app.py
