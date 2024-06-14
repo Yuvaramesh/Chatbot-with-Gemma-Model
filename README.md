@@ -50,7 +50,6 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```sh
     python app.py
     ```
-
 6. **Access the application:**
     Open your web browser and go to `http://localhost:5000`.
 
